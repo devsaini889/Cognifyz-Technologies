@@ -55,11 +55,7 @@ To run the code in this repository, follow these steps:
    git clone https://github.com/yourusername/cognifyz-internship.git
    cd cognifyz-internship
    ```
-2. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
    ```sh
    jupyter notebook
    ```
